@@ -1,0 +1,9 @@
+{
+  "name": "tschroeter/php-sql-kit",
+  "description": "",
+
+  "require-dev":
+  {
+    "phpunit/phpunit": "~4.6"
+  }
+}
